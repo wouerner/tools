@@ -6,3 +6,8 @@
 ## Javascript
 * Vue
 * Vuetify
+
+## Infra
+ * Docker
+ * Docker-compose
+ * Openshift
